@@ -8,7 +8,7 @@ me chamo Victor Hugo, e estou iniciando na carreira de programador
 - 🤔 estou aceitando ideias/ajudas para o inicio da carreira
 - 📫 caso queira falar comigo para algo: (https://mail.google.com/mail/u/4/#inbox?compose=GTvVlcSGMvdKxWXHHlDKZTGpVzdpHVVVHsWWCTVqVZPwZvwNzSrVbVZpXNwrkVBDKCChXwRWMjnnC)
 
-📖## conhecimento
+## 📖conhecimento
 - hardware
 - html
 - css
