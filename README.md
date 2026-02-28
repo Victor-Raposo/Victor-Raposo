@@ -6,7 +6,7 @@ me chamo Victor Hugo, e estou iniciando na carreira de programador
 - 🔭 procurando alguma empresa para iniciar no ramo da programação 
 - 🌱 atualmente estudando na _Unifebe_ 
 - 🤔 estou aceitando ideias/ajudas para o inicio da carreira
-- 📫 [caso queira falar comigo para algo]: ((https://mail.google.com/mail/u/0/#inbox?compose=new))
+- 📫 caso queira falar comigo para algo: (https://mail.google.com/mail/u/0/#inbox?compose=new)
 
 📖## conhecimento
 - hardware
