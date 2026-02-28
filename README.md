@@ -1,16 +1,17 @@
-## Hi there 👋
+## Oi
+me chamo Victor Hugo, e estou iniciando na carreira de programador 
 
-<!--
-**Victor-Raposo/Victor-Raposo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**algumas coisas que eu tenho para inicio:**
 
-Here are some ideas to get you started:
+- 🔭 procurando alguma empresa para iniciar no ramo da programação 
+- 🌱 atualmente estudando na _Unifebe_ 
+- 🤔 estou aceitando ideias/ajudas para o inicio da carreira
+- 📫 [caso queira falar comigo para algo]: ((https://mail.google.com/mail/u/0/#inbox?compose=new))
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📖## conhecimento
+- hardware
+- html
+- css
+- javascript
+  
+
