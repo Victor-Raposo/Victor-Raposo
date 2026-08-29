@@ -28,16 +28,7 @@ Desenvolvedor em formação, apaixonado por tecnologia e focado em construir sol
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Victor-Raposo&show_icons=true&theme=dark&count_private=true" alt="Estatísticas do GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Raposo&layout=compact&theme=dark" alt="Linguagens Mais Usadas" height="150"/>
-</div>
-
----
-
 ### 📫 Conecte-se Comigo
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5547999999999)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.lira@unifebe.edu.br)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5547992142702)
+
